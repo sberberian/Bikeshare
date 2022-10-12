@@ -5,25 +5,25 @@ The Tableau visualizations below were created as a resource for investors. They 
 
 ## Results
 
-![checkout](C:\Users\saman\Class\bikesharing\checkout.png)
+![checkout](C:\Users\saman\Class\Bikeshare\checkout.png)
 Bikes are usually checked out for about 5 minutes and nearly all trips are under an hour. This potentially indicate that program is helpful for speedy, local transporation.
 
-![checkoutgender](C:\Users\saman\Class\bikesharing\checkoutgender.png)
+![checkoutgender](C:\Users\saman\Class\Bikeshare\checkoutgender.png)
 All the genders appear to mostly take bike trips that are about 30 minutes or less.
 
-![tripsweekday](C:\Users\saman\Class\bikesharing\tripsweekday.png)
+![tripsweekday](C:\Users\saman\Class\Bikeshare\tripsweekday.png)
 The stop times of bike trips reflect the availability of a person employed with a full-time job. There are peaks on weekdays around 8am and 6pm before and after when work would be. There is also a consistent busyness on the weekend from the late morning to the afternoon. 
 
-![weekdaygender](C:\Users\saman\Class\bikesharing\weekdaygender.png)
+![weekdaygender](C:\Users\saman\Class\Bikeshare\weekdaygender.png)
 While there are less female users, all genders generally mirror the same schedules. 
 
-![usergender](C:\Users\saman\Class\bikesharing\usergender.png)
+![usergender](C:\Users\saman\Class\Bikeshare\usergender.png)
 The unknown gender category is more often a customer while men and women are more often subscribers. Of these subscribers, Thursday has the highest popularity. 
 
-![startinglocations](C:\Users\saman\Class\bikesharing\startinglocations.png)
+![startinglocations](C:\Users\saman\Class\Bikeshare\startinglocations.png)
 The top starting locations tend to be central and west of New York.
 
-![endinglocations](C:\Users\saman\Class\bikesharing\endinglocations.png)
+![endinglocations](C:\Users\saman\Class\Bikeshare\endinglocations.png)
 The common ending locations are incredibly similar to the starting locations. This is very covenient for strategically placing bike hubs around the city. 
 
 ## Summary
