@@ -8,10 +8,10 @@ The Tableau visualizations below were created as a resource for investors. They 
 ![checkout](C:\Users\saman\Class\Bikeshare\checkout.png)
 Bikes are usually checked out for about 5 minutes and nearly all trips are under an hour. This potentially indicate that program is helpful for speedy, local transporation.
 
-![checkoutgender](C:\Users\saman\Class\Bikeshare\checkoutgender.png)
+![checkoutgender](checkoutgender.png)
 All the genders appear to mostly take bike trips that are about 30 minutes or less.
 
-![tripsweekday](C:\Users\saman\Class\Bikeshare\tripsweekday.png)
+![tripsweekday](tripsweekday.png)
 The stop times of bike trips reflect the availability of a person employed with a full-time job. There are peaks on weekdays around 8am and 6pm before and after when work would be. There is also a consistent busyness on the weekend from the late morning to the afternoon. 
 
 ![weekdaygender](C:\Users\saman\Class\Bikeshare\weekdaygender.png)
